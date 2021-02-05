@@ -11,7 +11,6 @@ function Header(props) {
         <Toolbar>
           <Typography variant="h4"><Link color="inherit" >Home</Link></Typography>
           <Typography variant="h4"><Link color="inherit">Portfolio</Link></Typography>
-
         </Toolbar>
       </div>
     </AppBar>
