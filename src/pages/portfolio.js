@@ -1,6 +1,7 @@
 import React from "react";
 import Footer from '../components/footer';
 import Header from "../components/header";
+import './index.scss';
 
 export default function Home() {
   return <div id="main">
@@ -14,6 +15,7 @@ export default function Home() {
       </ul>
       <a href="https://play.google.com/store/apps/details?id=com.yemry.injectiontracker&hl=en_US&gl=US">See it on the Google Play Store</a>
     </section>
+    <br />
     <section>
       <h2>Blackjack API</h2>
       <ul>
