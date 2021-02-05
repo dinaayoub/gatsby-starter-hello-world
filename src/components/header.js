@@ -9,8 +9,8 @@ function Header(props) {
     <AppBar position="static" className="navbar">
       <div className="navbar">
         <Toolbar>
-          <Typography variant="h4"><Link color="inherit" >Home</Link></Typography>
-          <Typography variant="h4"><Link color="inherit">Portfolio</Link></Typography>
+          <Typography variant="h4"><Link color="inherit" href="/">Home</Link></Typography>
+          <Typography variant="h4"><Link color="inherit" href="/portfolio">Portfolio</Link></Typography>
         </Toolbar>
       </div>
     </AppBar>
