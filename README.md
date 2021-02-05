@@ -1,4 +1,4 @@
-# Dina Ayoub's Gatsby Portfolio
+# Lab 43a Gatsby Portfolio
 
 ## Author: Dina Ayoub
 

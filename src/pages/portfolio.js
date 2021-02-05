@@ -3,7 +3,7 @@ import Footer from '../components/footer';
 import Header from "../components/header";
 
 export default function Home() {
-  return <div>
+  return <div id="main">
     <Header />
     <section>
       <h2>Injection Tracker</h2>
